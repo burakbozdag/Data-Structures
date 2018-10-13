@@ -36,11 +36,11 @@
         - expect: _EOF_                                                                        # timeout: 3
     return: 0
 
-- case3_grid_border_error_no_skip:
+- case3_grid_border_error:
     run: ./assignment1 grid_border_error.txt inst_border_error.txt
     points: 10
     script:
-        - expect: "[ \r\n]*A grid is created: 6 7[ \r\n]*"                                                # timeout: 3
+        - expect: "[ \r\n]*A grid is created: 6 7[ \r\n]*"
         - expect: "[ \r\n]*SUCCESS: Operator [+] with size 2 is placed on [(]3,3[)].[ \r\n]*"             # timeout: 3
         - expect: "[ \r\n]*SUCCESS: Operator - with size 2 is placed on [(]6,3[)].[ \r\n]*"               # timeout: 3
         - expect: "[ \r\n]*SUCCESS: Operator / with size 1 is placed on [(]3,6[)].[ \r\n]*"               # timeout: 3

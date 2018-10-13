@@ -146,7 +146,6 @@ int main(int argc, char** argv)
         default:
             return 1;
         }
-
         type = '\0';
     }
 
