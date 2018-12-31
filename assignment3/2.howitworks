@@ -1,0 +1,16 @@
+--turn 1 begins
+Cards of table: [-1 -1 ]
+Cards of the first player: [9 29 ]
+Cards of the second player: [-8 -15 ]
+Cards of bin: []
+First player needs to give 1 cards
+29 > -15 is true -> Card 29 is given
+--turn 2 begins
+Cards of table: [-1 ]
+Cards of the first player: [9 ]
+Cards of the second player: [-8 -15 29 ]
+Cards of bin: []
+Second player needs to give 1 cards
+29 > 9 is true -> Card 29 is given
+Game ends.
+There are 0 cards in the bin.

@@ -1,0 +1,72 @@
+--turn 1 begins
+Cards of table: [1 -1 1 -1 1 -1 1 -1 1 -1 ]
+Cards of the first player: [3 3 1 2 3 4 3 1 1 3 2 1 4 2 2 2 2 2 4 ]
+Cards of the second player: [2 4 4 3 1 3 4 4 4 4 3 2 2 2 1 1 1 2 4 ]
+Cards of bin: []
+First player needs to give 1 cards
+4 > 4 is false -> Card 4 is thrown away
+--turn 2 begins
+Cards of table: [1 -1 1 -1 1 -1 1 -1 1 ]
+Cards of the first player: [3 3 1 2 3 4 3 1 1 3 2 1 4 2 2 2 2 2 ]
+Cards of the second player: [2 4 4 3 1 3 4 4 4 4 3 2 2 2 1 1 1 2 4 ]
+Cards of bin: [4 ]
+First player needs to give 1 cards
+2 > 4 is false -> Card 2 is thrown away
+--turn 3 begins
+Cards of table: [1 -1 1 -1 1 -1 1 -1 ]
+Cards of the first player: [3 3 1 2 3 4 3 1 1 3 2 1 4 2 2 2 2 ]
+Cards of the second player: [2 4 4 3 1 3 4 4 4 4 3 2 2 2 1 1 1 2 4 ]
+Cards of bin: [4 2 ]
+First player needs to give 1 cards
+2 > 4 is false -> Card 2 is thrown away
+--turn 4 begins
+Cards of table: [1 -1 1 -1 1 -1 1 ]
+Cards of the first player: [3 3 1 2 3 4 3 1 1 3 2 1 4 2 2 2 ]
+Cards of the second player: [2 4 4 3 1 3 4 4 4 4 3 2 2 2 1 1 1 2 4 ]
+Cards of bin: [4 2 2 ]
+First player needs to give 1 cards
+2 > 4 is false -> Card 2 is thrown away
+--turn 5 begins
+Cards of table: [1 -1 1 -1 1 -1 ]
+Cards of the first player: [3 3 1 2 3 4 3 1 1 3 2 1 4 2 2 ]
+Cards of the second player: [2 4 4 3 1 3 4 4 4 4 3 2 2 2 1 1 1 2 4 ]
+Cards of bin: [4 2 2 2 ]
+First player needs to give 1 cards
+2 > 4 is false -> Card 2 is thrown away
+--turn 6 begins
+Cards of table: [1 -1 1 -1 1 ]
+Cards of the first player: [3 3 1 2 3 4 3 1 1 3 2 1 4 2 ]
+Cards of the second player: [2 4 4 3 1 3 4 4 4 4 3 2 2 2 1 1 1 2 4 ]
+Cards of bin: [4 2 2 2 2 ]
+First player needs to give 1 cards
+2 > 4 is false -> Card 2 is thrown away
+--turn 7 begins
+Cards of table: [1 -1 1 -1 ]
+Cards of the first player: [3 3 1 2 3 4 3 1 1 3 2 1 4 ]
+Cards of the second player: [2 4 4 3 1 3 4 4 4 4 3 2 2 2 1 1 1 2 4 ]
+Cards of bin: [4 2 2 2 2 2 ]
+First player needs to give 1 cards
+4 > 4 is false -> Card 4 is thrown away
+--turn 8 begins
+Cards of table: [1 -1 1 ]
+Cards of the first player: [3 3 1 2 3 4 3 1 1 3 2 1 ]
+Cards of the second player: [2 4 4 3 1 3 4 4 4 4 3 2 2 2 1 1 1 2 4 ]
+Cards of bin: [4 2 2 2 2 2 4 ]
+First player needs to give 1 cards
+1 > 4 is false -> Card 1 is thrown away
+--turn 9 begins
+Cards of table: [1 -1 ]
+Cards of the first player: [3 3 1 2 3 4 3 1 1 3 2 ]
+Cards of the second player: [2 4 4 3 1 3 4 4 4 4 3 2 2 2 1 1 1 2 4 ]
+Cards of bin: [4 2 2 2 2 2 4 1 ]
+First player needs to give 1 cards
+2 > 4 is false -> Card 2 is thrown away
+--turn 10 begins
+Cards of table: [1 ]
+Cards of the first player: [3 3 1 2 3 4 3 1 1 3 ]
+Cards of the second player: [2 4 4 3 1 3 4 4 4 4 3 2 2 2 1 1 1 2 4 ]
+Cards of bin: [4 2 2 2 2 2 4 1 2 ]
+First player needs to give 1 cards
+3 > 4 is false -> Card 3 is thrown away
+Game ends.
+There are 10 cards in the bin.

@@ -1,0 +1,44 @@
+--turn 1 begins
+Cards of table: [1 1 1 1 1 1 ]
+Cards of the first player: [1 2 1 2 1 ]
+Cards of the second player: [2 1 2 1 2 ]
+Cards of bin: []
+Second player needs to give 1 cards
+2 > 1 is true -> Card 2 is given
+--turn 2 begins
+Cards of table: [1 1 1 1 1 ]
+Cards of the first player: [1 2 1 2 1 2 ]
+Cards of the second player: [2 1 2 1 ]
+Cards of bin: []
+First player needs to give 1 cards
+2 > 1 is true -> Card 2 is given
+--turn 3 begins
+Cards of table: [1 1 1 1 ]
+Cards of the first player: [1 2 1 2 1 ]
+Cards of the second player: [2 1 2 1 2 ]
+Cards of bin: []
+Second player needs to give 1 cards
+2 > 1 is true -> Card 2 is given
+--turn 4 begins
+Cards of table: [1 1 1 ]
+Cards of the first player: [1 2 1 2 1 2 ]
+Cards of the second player: [2 1 2 1 ]
+Cards of bin: []
+First player needs to give 1 cards
+2 > 1 is true -> Card 2 is given
+--turn 5 begins
+Cards of table: [1 1 ]
+Cards of the first player: [1 2 1 2 1 ]
+Cards of the second player: [2 1 2 1 2 ]
+Cards of bin: []
+Second player needs to give 1 cards
+2 > 1 is true -> Card 2 is given
+--turn 6 begins
+Cards of table: [1 ]
+Cards of the first player: [1 2 1 2 1 2 ]
+Cards of the second player: [2 1 2 1 ]
+Cards of bin: []
+First player needs to give 1 cards
+2 > 1 is true -> Card 2 is given
+Game ends.
+There are 0 cards in the bin.

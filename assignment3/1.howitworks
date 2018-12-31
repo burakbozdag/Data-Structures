@@ -1,0 +1,11 @@
+--turn 1 begins
+Cards of table: [5 -8 ]
+Cards of the first player: [-85 87 -73 ]
+Cards of the second player: [-12 -15 -44 ]
+Cards of bin: []
+First player needs to give 8 cards
+-73 > -44 is false -> Card -73 is thrown away
+87 > -44 is true -> Card 87 is given
+-85 > 87 is false -> Card -85 is thrown away
+Game ends.
+There are 2 cards in the bin.
